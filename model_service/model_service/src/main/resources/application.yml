@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: model-service
+
+eureka:
+  instance:
+    hostname: localhost
